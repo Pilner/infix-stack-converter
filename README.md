@@ -19,10 +19,17 @@ gcc main.c -o main.exe
 ./main.exe
 ```
 
+
+## To-do List
+- [x] Implement the Postfix Algorithm
+- [ ] Implement the Prefix Algorithm
+- [ ] Design the program
+
+
 ## Licenses
 MIT License
 
-Copyright (c) 2022 Almerol, Ong, Recio, Rico, Victuelles
+Copyright (c) 2022 Victuelles
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
