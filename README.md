@@ -24,7 +24,7 @@ gcc main.c -o main
 
 ## To-do List
 - [x] Implement the Postfix Algorithm
-- [ ] Implement the Prefix Algorithm
+- [x] Implement the Prefix Algorithm
 - [ ] Design the program
 
 
