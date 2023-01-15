@@ -6,17 +6,19 @@ A side project to understand thoroughly the concept behind the Infix to Prefix/P
 ## How to use
 *Note: Make sure you have a C compiler like [GCC](https://gcc.gnu.org/). To check, run `gcc -v` in your terminal*
 
+*Note: I suggest using a terminal to compile/run this program.*
+
 1. First clone this git repository to your local device
 ```
 git clone https://github.com/Pilner/infix-stack-converter.git
 ```
 2. Compile the code into your terminal
 ```
-gcc main.c -o main.exe
+gcc main.c -o main
 ```
 3. Run the program
 ```
-./main.exe
+./main
 ```
 
 
